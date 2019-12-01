@@ -1,0 +1,2 @@
+In part 2, tangents and normals may look odd, especially for Curve 2. This is simply due to the scale of the 
+graph.
